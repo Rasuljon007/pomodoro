@@ -1,1 +1,0 @@
-export type Type = 'POMODORO' | 'SHORT_BREAK' | 'LONG_BREAK';
